@@ -1,18 +1,20 @@
 # CrossingKey Founder Record
 
-A dated, public-safe record of founder involvement in the development of CrossingKey from June 2025 through July 21, 2026.
+A dated, public-safe record of CrossingKey development from June 2025 through July 2026.
 
-## Purpose
+## Public timeline
 
-The record preserves decisions, design evolution, project milestones, and authorship context in language that is precise without overstating certainty.
+| Period | Milestone |
+| --- | --- |
+| June–December 2025 | Initial CrossingKey direction, identity exploration, and human–AI workflow research. |
+| January–March 2026 | Product-system concepts, documentation methods, and design language developed. |
+| April–June 2026 | Website, commerce, delivery, and public-repository planning refined. |
+| July 2026 | Public documentation portfolio established to separate publishable work from private operations. |
 
-## Contents
+## Evidence standard
 
-- Dated milestone entries
-- Founder decision records
-- Design and architecture evolution
-- Evidence classification and source references
+- **Completed:** a public artifact or dated evidence is available.
+- **Active:** work is underway and is not represented as released.
+- **Planned:** direction only; no delivery claim.
 
-## Standard
-
-Every entry should distinguish between completed work, active work, and planned work. Private material, personal data, credentials, and sensitive implementation detail are excluded.
+Private material, personal data, credentials, customer information, and unsupported claims are excluded. Corrections preserve a dated amendment rather than silently rewriting history.
